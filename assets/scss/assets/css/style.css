@@ -1,0 +1,115 @@
+.img {
+  width: 200px;
+  height: 150px;
+  margin: 15px;
+}
+
+.basket {
+  width: 30%;
+  height: 50px;
+  background-color: grey;
+}
+
+.basket i {
+  font-size: 25px;
+  color: orange;
+  margin-top: 10px;
+  margin-left: 20%;
+}
+
+.basket i sup {
+  font-size: 15px;
+}
+
+a {
+  width: 30px;
+  height: 20px;
+}
+
+img {
+  width: 400px;
+  height: 400px;
+}
+
+button {
+  margin-top: 20px;
+}
+
+.icon {
+  margin-top: 20px;
+}
+
+.icon i {
+  color: orange;
+}
+
+.price {
+  margin-top: 15px;
+  font-size: 25px;
+  font-family: 'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif;
+}
+
+.size {
+  margin-top: 15px;
+}
+
+.about {
+  margin-top: 15px;
+}
+
+.about ul {
+  list-style: none;
+}
+
+.about ul li {
+  font-size: 20px;
+}
+
+.about li:first-child {
+  color: orange;
+}
+
+.buy {
+  font-size: 20px;
+  font-weight: bold;
+}
+
+.buttons {
+  margin-top: 15px;
+}
+
+.buttons .tocart {
+  position: relative;
+  width: 100px;
+  height: 40px;
+  background-color: orange;
+  text-align: center;
+}
+
+.buttons .tocart a {
+  position: relative;
+  text-decoration: none;
+  color: black;
+  font-size: 15px;
+  font-weight: bold;
+  top: 5px;
+}
+
+.buttons .wishlist {
+  width: 130px;
+  height: 40px;
+  background-color: aqua;
+  border: 1px solid white;
+  text-align: center;
+  margin-left: 10px;
+}
+
+.buttons .wishlist a {
+  position: relative;
+  text-decoration: none;
+  color: white;
+  font-size: 15px;
+  font-weight: bold;
+  top: 5px;
+}
+/*# sourceMappingURL=style.css.map */
